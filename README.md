@@ -78,4 +78,4 @@ Instructions:
 - Run QuestionFivePrintMultiplicationTable.java main() method
 - It will display a multiplication table from 1 to 10 using multidimensional array
 
-
+![](images/Q5Output.png)
