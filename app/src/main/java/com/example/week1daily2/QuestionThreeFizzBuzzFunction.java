@@ -13,8 +13,10 @@ public class QuestionThreeFizzBuzzFunction {
             System.out.println("fizzbuzz");
         } else if (inputNumber % 3 == 0){
             System.out.println("fizz");
-        } else if (inputNumber % 5 == 0){
+        } else if (inputNumber % 5 == 0) {
             System.out.println("buzz");
+        } else {
+            System.out.println(inputNumber + " is not divisible by 3 or 5.");
         }
     }
 }
