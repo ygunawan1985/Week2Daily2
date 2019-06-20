@@ -49,4 +49,33 @@ Instructions:
 ![](images/Q3OutputBuzz.png)
 ![](images/Q3OutputFizzBuzz.png)
 
+Question 4: Check Anagrams file is located in the path listed below:
+app/src/main/java/com/example/week1daily2/QuestionFourCheckAnagrams.java
+
+Assignment:
+Create a function to check if the two strings are Anagrams:    Eg COAT and TACO would be anagrams. public boolean checkAnagrams(String word1, String word2){};
+
+Instructions:
+- Run QuestionFourCheckAnagrams.java main() method
+- The program will ask the user to enter 2 strings
+- It will display output whether the 2 strings are anagrams or not
+
+![](images/Q4OutputTrue.png)
+![](images/Q4OutputFalse.png)
+
+Question 5: Print a Multiplication Table is located in the path listed below:
+app/src/main/java/com/example/week1daily2/QuestionFivePrintMultiplicationTable.java
+
+Assignment:
+Print a multiplication table from 1 to 10 using  multidimensional array
+   Output
+   1 2 3 4 5 6 7 8 9 10
+   2 4 6 8 10 12 14 16 18 20
+    ...
+ public void printTables(){};
+
+Instructions:
+- Run QuestionFivePrintMultiplicationTable.java main() method
+- It will display a multiplication table from 1 to 10 using multidimensional array
+
 
