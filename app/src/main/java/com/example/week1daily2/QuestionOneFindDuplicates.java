@@ -7,7 +7,6 @@ import java.util.Set;
 
 public class QuestionOneFindDuplicates {
 
-
     public static void main(String[] args) {
 
         List<String> strings = new ArrayList<>();
